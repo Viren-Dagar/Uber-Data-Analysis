@@ -125,9 +125,10 @@ uber-operations-analytics/
 ---
 
 ## 🖼️ Dashboard Preview
-
-> *(Add screenshots of your Power BI dashboard pages here)*
-
+<img width="964" height="524" alt="Screenshot 2026-05-01 235354" src="https://github.com/user-attachments/assets/053ad483-3172-4a21-b470-f282ca641f97" />
+<img width="967" height="520" alt="Screenshot 2026-05-01 235427" src="https://github.com/user-attachments/assets/98404192-dfab-4d41-b891-3fea0b1ce820" />
+<img width="975" height="536" alt="Screenshot 2026-05-01 235510" src="https://github.com/user-attachments/assets/f9465603-cecc-4920-bb95-b5369b97680d" />
+<img width="978" height="535" alt="Screenshot 2026-05-01 235532" src="https://github.com/user-attachments/assets/40d718f7-161b-4c0c-9726-8e4d0be4ae09" />
 ---
 
 ## 👤 Author
